@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1417880192 source:c:\users\mr.store\desktop\snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1418222182 source:c:\users\tatal vostru\desktop\snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
